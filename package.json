@@ -1,8 +1,8 @@
 {
   "name": "sass-brunch",
-  "version": "2.10.6",
+  "version": "2.10.8",
   "description": "Adds Sass support to Brunch.",
-  "author": "Paul Miller (http://paulmillr.com/)",
+  "author": "Paul Miller (https://paulmillr.com/)",
   "homepage": "https://github.com/brunch/sass-brunch",
   "license": "MIT",
   "keywords": [
@@ -28,13 +28,13 @@
     "node-sass-globbing": "0.0.23",
     "postcss": "~6.0.16",
     "postcss-modules": "~1.1.0",
-    "progeny": "~0.11.0"
+    "progeny": "~0.12.0"
   },
   "devDependencies": {
-    "chai": "~4.1.2",
-    "eslint": "~4.3.0",
+    "chai": "~4.2.0",
+    "eslint": "~4.18.0",
     "eslint-config-brunch": "zazaian/eslint-config-brunch",
-    "mocha": "~5.0.0"
+    "mocha": "~5.2.0"
   },
   "eslintConfig": {
     "extends": "brunch"
